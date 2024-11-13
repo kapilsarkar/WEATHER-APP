@@ -12,8 +12,8 @@
 
 - [LIVE LINK](https://weatherappreactjsbykapil.netlify.app/)
 
-![IMG](./public/1.png)
+![IMG](./weather-app/public/1.png)
 
-![IMG](./public/2.png)
+![IMG](./weather-app/public/2.png)
 
-![IMG](./public/3.png)
+![IMG](./weather-app/public/3.png)
